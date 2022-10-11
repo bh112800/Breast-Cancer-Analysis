@@ -3,11 +3,15 @@
 The Breast Cancer Wisconsin (Diagnostic) DataSet, obtained from Kaggle, contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass and describe characteristics of the cell nuclei present in the image.
 
 Number of instances: 569
+
 Number of attributes: 32 (ID, diagnosis, 30 real-valued input features)
+
 Attribute information
 
   ID number
+  
   Diagnosis (M = malignant, B = benign)
+  
   Ten real-valued features are computed for each cell nucleus:
   
     radius (mean of distances from center to points on the perimeter)
