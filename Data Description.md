@@ -4,15 +4,15 @@ The Breast Cancer Wisconsin (Diagnostic) DataSet, obtained from Kaggle, contains
 
 * Number of instances: 569
 
-Number of attributes: 32 (ID, diagnosis, 30 real-valued input features)
+* Number of attributes: 32 (ID, diagnosis, 30 real-valued input features)
 
-Attribute information
+* Attribute information
 
-  ID number
+  * ID number
   
-  Diagnosis (M = malignant, B = benign)
+  * Diagnosis (M = malignant, B = benign)
   
-  Ten real-valued features are computed for each cell nucleus:
+  * Ten real-valued features are computed for each cell nucleus:
   
     radius (mean of distances from center to points on the perimeter)
     texture (standard deviation of gray-scale values)
